@@ -1,0 +1,88 @@
+style.css
+<<<<<<< Updated upstream
+h1
+{
+	font-family: "Sofia", sans-serif;
+	color: blue;
+}
+
+h3
+{
+	font-family: "Montserrat", serif;
+	color: grey;
+}
+
+h2
+{
+	font-family: "Cairo". serif;
+	color: grey;
+}
+
+a {
+	background-color: pink;
+	box-shadow: 0 5px 0 darkred;
+	color: white;
+	padding: 1cm 1.5cm;
+	position: relative;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+a:hover {
+	background-color: #ce0606;
+}
+
+a:active {
+	box-shadow: none;
+	top: 5px;
+}
+
+span
+{
+	background-color: #ffb1c6;
+	font-family: "Cairo", sans-serif;
+}
+=======
+h1
+{
+	font-family: "Sofia", sams-serif;
+	color: yellow;
+}
+
+h3
+{
+	font-family: "Montserrat", serif;
+	color: grey;
+}
+
+h2
+{
+	font-family: "Cairo", serif;
+	color: blue;
+}
+
+a {
+	background-color: pink;
+	box-shadow: 0 5px 0 darkred;
+	color: white;
+	padding: 1cm 1.5cm;
+	position: relative;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+a: hover {
+	background-color: #ce0606;
+}
+
+a: active {
+	box-shadow: none;
+	top: 5px;
+}
+
+span
+{
+	background-color: #ffb1c6;
+	font-family: "Cairo", serif;
+>>>>>>> Stashed changes
+}
